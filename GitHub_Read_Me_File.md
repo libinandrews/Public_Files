@@ -55,4 +55,4 @@ Type the name of hyperlink inside square brackets i.e. [ ]
 And type/paste the link or URL inside round brackets i.e. ( )
 Example
 
-[YouTube] (https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3 “Link”)
+[Read Article] (https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3 “Link”)
