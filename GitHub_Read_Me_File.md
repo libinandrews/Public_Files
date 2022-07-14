@@ -1,8 +1,8 @@
-#How to create a Readme.md file?
+# How to create a Readme.md file?
 
 A file with .md or .MARKDOWN extension is a Markdown doc. file. It’s nothing but a plain text file that uses the Markdown language to describe how to convert a text document to HTML. It takes all the text from the markdown file and converts it into XHTML or HTML through a markdown app or a compiler.
 
-##Steps to create a Readme.md file :
+## Steps to create a Readme.md file :
 
 Open any text editor or notepad.
 Create a new file from — →file →new file.
@@ -18,7 +18,7 @@ Italic text :- Can be typed between pair of Underscores → _text_
 Bold text :- Can be typed between a pair of two Asterisk → **text**
 Strikethrough :- Can be typed between a pair of two Tilde → ~~text~~
 
-##HEADING
+## HEADING
 Heading can be typed in different sizes ranging from 1–6 by adding hash/pound. It can be typed in the following ways.
 
 Max size 1 → #Heading 1
